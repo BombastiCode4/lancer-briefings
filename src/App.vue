@@ -66,7 +66,7 @@
     </defs>
   </svg>
   <audio autoplay>
-    <source src="tomp3.cc - Briefing 1 292 Ace Combat 5 Original Soundtrack.ogg" type="audio/ogg" />
+    <source src="/tomp3.cc - Briefing 1 292 Ace Combat 5 Original Soundtrack.ogg" type="audio/ogg" />
   </audio>
   <Footer/>
 </template>
