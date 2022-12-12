@@ -34,11 +34,11 @@
           <span class="subtitle">{{ header.system }}</span>
         </div>
         <div id="gate">
-          <h4>Gate</h4>
+          <h4>Region</h4>
           <span class="subtitle">{{ header.gate }}</span>
         </div>
         <div id="ring">
-          <h4>Ring</h4>
+          <h4>District</h4>
           <span class="subtitle">{{ header.ring }}</span>
         </div>
       </div>
