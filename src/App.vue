@@ -94,7 +94,7 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001",
+          "slug": "002",
           "name": "Bug-Hunt",
           "status": "success"
         },
