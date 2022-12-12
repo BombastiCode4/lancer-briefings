@@ -148,15 +148,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
+        "planet": "Earth",
+        "year": "30XX",
+        "system": "Sol",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "Democratic",
+        "headerSubtitle": "Federated Suns",
+        "subheaderTitle": "Vanguard Squad",
+        "subheaderSubtitle": "06th Mechanized Assault",
       },
       "options":{
         "eventsMarkdownPerMission": true
