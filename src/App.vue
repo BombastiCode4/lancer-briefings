@@ -95,8 +95,8 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
-          "status": "success"
+          "name": "Feet Into Hell",
+          "status": "start"
         },
         {
           "slug": "002",
@@ -148,14 +148,14 @@ export default {
         },
       ],
       "header": {
-        "planet": "Earth",
-        "year": "30XX",
-        "system": "Sol",
-        "gate": "Journey City",
-        "ring": "Broken Bank",
-        "headerTitle": "Democratic",
-        "headerSubtitle": "Federated Suns",
-        "subheaderTitle": "Vanguard Squad",
+        "planet": "Cornucopia",
+        "year": "5021u",
+        "system": "Boundary Garden",
+        "gate": "Farnispan Gap",
+        "ring": "//ERROR//",
+        "headerTitle": "Union",
+        "headerSubtitle": "3rd Annamite Ring Division",
+        "subheaderTitle": "B Company",
         "subheaderSubtitle": "06th Mechanized Assault",
       },
       "options":{
