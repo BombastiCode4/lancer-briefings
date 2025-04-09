@@ -116,7 +116,7 @@ export default {
         },
         {
           "callsign": "Doc",
-          "alias": "Figaro Gracia",
+          "alias": "Figaro Garcia",
           "code": "2bc33ce8-4fa6-4ea5-9ce7-cd55fec6036a//NDL-C-GAMMA-KINGMAKER",
           "corpro": "GMS",
           "frame": "Everest",
