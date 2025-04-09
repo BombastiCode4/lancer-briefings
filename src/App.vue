@@ -130,7 +130,6 @@ export default {
           "frame": "Everest",
           "mech": "Dante"
         },
-       
       ],
       "header": {
         "planet": "Cornucopia",
