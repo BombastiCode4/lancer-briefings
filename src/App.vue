@@ -98,11 +98,7 @@ export default {
           "name": "Feet Into Hell",
           "status": "start"
         },
-        {
-          "slug": "002",
-          "name": "Vigilant Gaze",
-          "status": "start",
-        }
+       
         
       ],
       "pilots": [
