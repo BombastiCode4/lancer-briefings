@@ -103,12 +103,12 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Mouse",
-          "alias": "Amana Sevaro",
+          "callsign": "CSN-392",
+          "alias": "Sam",
           "code": "fbcdeb59-f93d-4252-ac8c-e1973ef1d832//NDL-C-BLIND-GLYPH",
-          "corpro": "GMS",
-          "frame": "Chomolungma",
-          "mech": "Sialia"
+          "corpro": "Smith-Shimano",
+          "frame": "Mourning Star",
+          "mech": "Death"
         },
         {
           "callsign": "Doc",
