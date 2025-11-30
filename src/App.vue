@@ -111,12 +111,12 @@ export default {
           "mech": "Death"
         },
         {
-          "callsign": "Doc",
-          "alias": "Figaro Garcia",
+          "callsign": "Sovereign",
+          "alias": "Sarah Corey",
           "code": "2bc33ce8-4fa6-4ea5-9ce7-cd55fec6036a//NDL-C-GAMMA-KINGMAKER",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Valkyrie"
+          "corpro": "Smith-Shimano",
+          "frame": "Monarch",
+          "mech": "Hell-On-High"
         },
         {
           "callsign": "Chance",
