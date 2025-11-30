@@ -1,0 +1,2 @@
+# Union Auxiliary Pilot Alexandra Cannon - Observation Notes
+2nd Lieutenant Alexandra Cannon. A bit of a loose cannon, what with their gun-for-hire history. Fortunately though, that quick thinking is something taht the Aun aren't going to be expecting. That, and the fact that they're rocking some heavy ordnance. Their history highlights aggressive demolitions, destructive of assets both planetside and in low-orbit, as well as familiarity with fortifications means that they'll be a great asset to the Revolutionary Guard if we can get them to the fellas.
