@@ -119,12 +119,12 @@ export default {
           "mech": "Hell-On-High"
         },
         {
-          "callsign": "Chance",
-          "alias": "Lucian Manifold",
+          "callsign": "Knox",
+          "alias": "Alexandra Cannon",
           "code": "e5dca7aa-547b-47a9-8aac-684dafe1bb3b//NDL-C-DARK-GRAVE",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Dante"
+          "corpro": "Harrison Armory",
+          "frame": "Barbarossa",
+          "mech": "Howitzer"
         },
       ],
       "header": {
